@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishqa Kumavat</h1>
 <h3 align="center">Web developer | Frontend Developer | UI developer | AI | DSA</h3>
 
-- 🔭 I’m currently working on **task management website**
 
 - 🌱Currently solving more and more problems **to increase problem solving skills**
 
