@@ -1,17 +1,167 @@
-<h1 align="center">Hi 👋, I'm Tanishqa Kumavat</h1>
-<h3 align="center">Web developer | Frontend Developer | UI developer | AI | DSA</h3>
+<h1 align="center">
+  Hi 👋, I'm Tanishqa Kumavat
+</h1>
 
-
-- 🌱Currently solving more and more problems **to increase problem solving skills**
-
-- 📫 How to reach me **tanishqa.kumavat05@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanishqa kumavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishqa kumavat" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Web+Developer;Flutter+Developer;Problem+Solver;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqa18&show_icons=true&locale=en&layout=compact" alt="tanishqa18" /></p>
+## 👩‍💻 About Me
+
+🎓 **4th-year Computer Engineering student** passionate about building practical and user-focused software.
+
+💻 **Web Developer & Flutter Developer** focused on creating responsive web applications, cross-platform mobile applications, and full-stack projects.
+
+🎮 Currently working with **Flutter, WebGL, WebView, APIs, and modern web technologies** to build interactive applications.
+
+🧩 Practicing **DSA and problem solving** with Java to strengthen my programming and logical thinking skills.
+
+🚀 I enjoy learning new technologies, experimenting with ideas, and turning them into working products.
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+- Responsive websites
+- Frontend development
+- React applications
+- REST API integration
+- Firebase
+- Full-stack projects
+- UI implementation
+
+</td>
+
+<td width="50%">
+
+### 📱 Flutter Development
+
+- Cross-platform applications
+- REST API integration
+- WebView & JavaScript communication
+- Firebase integration
+- Performance optimization
+- Android deployment
+- WebGL integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Reel-Based WebGL Gaming Engine
+
+A **Flutter-based gaming engine** where WebGL games are presented in a reel-style experience.
+
+**Tech:** Flutter • Dart • WebGL • WebView • JavaScript
+
+**Focus:** Performance optimization • Game loading • Memory management • JavaScript-Flutter communication
+
+---
+
+
+### 🌱 EnviroWatch AI — Environmental Monitoring
+
+AI-powered environmental monitoring system developed using **FastAPI and React 18**.
+
+- 🌍 Tracks **7 environmental factors**
+- 🔮 Provides **48-hour risk forecasting**
+- 🤖 Uses **XGBoost and Isolation Forest** for anomaly detection
+- 🗺️ Integrated **Leaflet Maps** for real-time spatial visualization
+- 👩‍💻 Worked as **Team Leader**
+
+**Tech:** React 18 • FastAPI • Python • XGBoost • Isolation Forest • Leaflet Maps
+
+---
+
+### 🦷 Sakthi Dental Clinic — Healthcare Website
+
+A healthcare platform designed to improve **appointment workflows and accessibility**.
+
+- ⚡ Achieved **<2s load time**
+- 📱 Responsive and user-friendly interface
+- 🌐 Ensured **cross-browser compatibility**
+- 🏥 Focused on improving the digital experience for patients
+
+**Tech:** HTML • CSS • JavaScript • Responsive Web Development
+
+---
+
+### 🏭 MIA — Maval Industrial Association
+
+A full-stack **Industrial Association Management System** developed as a freelance project.
+
+- 🏢 Industry management and membership registration
+- 📅 Event management and contact system
+- 🔐 Secure admin dashboard with Firebase Authentication
+- ☁️ Firestore & Firebase Storage integration
+- 🔎 SEO optimization and responsive UI
+- 📄 Dynamic PDF membership form generation
+
+**Tech:** React.js • Tailwind CSS • Node.js • Express.js • Firebase
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind" />
+</p>
+
+### 📱 Mobile & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma" />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/tanishqa18?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqa18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqa18&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+
+## 🌱 Currently Learning
+
+```text
+Web Development     ███████████████████░   90%
+Flutter Development ███████████████████░   90%
+DSA & Problem Solving ████████████████░░░   80%
+Backend Development ███████████████░░░░░   75%
+System Design       ████████████░░░░░░░   60%
